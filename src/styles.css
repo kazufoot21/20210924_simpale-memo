@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  border: solid 5px #ccc;
+  padding: 8px;
+  margin: 16px;
+}
+
+button {
+  margin-left: 16px;
+  cursor: pointer;
+}
+
+li > div {
+  display: flex;
+  align-items: center;
+}
